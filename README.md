@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Web Development (React, Node.js)**
 - 🌱 Learning **Blockchain & Flutter**
 - 💬 Ask me about **JavaScript, Flutter, Fintech**
-- 📫 Reach me at: **your_email@example.com**
+- 📫 Reach me at: **thecong2610@gmail.com**
 
 ---
 
