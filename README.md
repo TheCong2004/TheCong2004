@@ -21,12 +21,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  
-  ![Snake animation](https://github.com/TheCong2004/TheCong2004/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ---
 
@@ -97,25 +91,3 @@
 </div>
 
 ---
-
-## 📈 Learning Journey
-
-```javascript
-const cong = {
-    currentLevel: "Beginner",
-    focus: "Frontend Development",
-    learning: ["HTML", "CSS", "JavaScript", "React"],
-    goal: "Build amazing user interfaces",
-    motto: "Learn something new every day! 🚀"
-};
-```
-
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-  
-  **Thanks for visiting my profile! 😊**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=TheCong2004&color=blueviolet&style=flat-square)
-  
-</div>
