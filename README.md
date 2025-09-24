@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Công  
 
-<!--
-**TheCong2004/TheCong2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on **Web Development (React, Node.js)**
+- 🌱 Learning **Blockchain & Flutter**
+- 💬 Ask me about **JavaScript, Flutter, Fintech**
+- 📫 Reach me at: **your_email@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCong2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCong2004&layout=compact)
+
+---
+
+## 🌐 Connect with me
+![GitHub followers](https://img.shields.io/github/followers/TheCong2004?label=Follow&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
