@@ -100,16 +100,7 @@
 
 ---
 
-## 📈 Learning Journey
 
-```javascript
-const cong = {
-    currentLevel: "Beginner",
-    focus: "Frontend Development",
-    learning: ["HTML", "CSS", "JavaScript", "React"],
-    goal: "Build amazing user interfaces",
-    motto: "Learn something new every day! 🚀"
-};
 ```
 
 <div align="center">
